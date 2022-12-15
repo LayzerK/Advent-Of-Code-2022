@@ -52,5 +52,3 @@ with open('inputday10.txt', 'r') as data:
                 print(x, cycle)
             update()
             x += int(change)
-    for line in CRT:
-        print(line)
